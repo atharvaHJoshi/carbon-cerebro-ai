@@ -1,0 +1,15 @@
+the quick brown fox jumps over the lazy dog. python is a programming language.
+to write a function you define it with the def keyword. the function takes
+arguments and returns a value.
+
+a machine learning model learns patterns from data. the training loop updates
+the weights of the neural network. the loss function measures the error between
+predictions and true labels. gradient descent finds a local minimum of the loss.
+
+query the database with sql. the select statement retrieves rows from a table.
+insert adds new rows. update modifies existing rows. delete removes rows.
+where clause filters the result set.
+
+climate change is caused by greenhouse gas emissions. carbon dioxide is released
+when fossil fuels are burned. renewable energy from the sun and wind produces
+electricity with low emissions. reducing energy use lowers our carbon footprint.
